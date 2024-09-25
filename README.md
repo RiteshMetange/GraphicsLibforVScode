@@ -1,5 +1,3 @@
-## Improved Text:
-
 **# GraphicsLibForVScode**
 
 **Instructions for Using the Graphics Library:**
